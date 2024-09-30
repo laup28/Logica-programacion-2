@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(204, 201, 201);
+    font-family: Arial, sans-serif;
+}
+#boton{
+    background-color: rgb(25, 228, 25);
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    font-size: 16px;
+}
+
+ input[type="number"] {
+     width: 100px;
+     height: 30px;
+     font-size: 16px;
+ }
+
+h1 {
+    color: rgb(204, 12, 12);
+    font-size: 40px;
+    text-align: center;
+}
+label {
+    font-size: 24px;
+}
+
+#resultado {
+    font-size: 18px;
+}
